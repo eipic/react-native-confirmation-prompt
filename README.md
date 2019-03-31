@@ -22,7 +22,7 @@
         <ConfirmationPrompt/> //...goes here
    </View>
 
-   4. Add a state variable and name it as 'actionSheetVisibility' with its initial value of "none" (important!)
+4. Add a state variable and name it as 'actionSheetVisibility' with its initial value of "none" (important!)
       state = {
           actionSheetVisibility: "none" 
       }
@@ -30,7 +30,7 @@
       
       <ConfirmationPrompt actionSheetVisibility={this.state.actionSheetVisibility}>
 
-    5. A few parameters are needed to be passed 
+5. A few parameters are needed to be passed 
         <ConfirmationPrompt 
             actionSheetVisibility={this.state.actionSheetVisibility} 
             message={"string value"}
@@ -44,7 +44,7 @@
         
         i.e obj, callback and actionSheetVisibility are strictly required for component rendering!
     
-    5. Finally, calling the actionsheet is pretty straightforward. Just call      the showConfirmation method as, 
+6. Finally, calling the actionsheet is pretty straightforward. Just call the showConfirmation method as, 
        
        new ConfirmationPrompt().showConfirmation(this)
 
