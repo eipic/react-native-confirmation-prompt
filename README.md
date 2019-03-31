@@ -1,3 +1,5 @@
+![alt text](https://github.com/eipic/react-native-confirmation-prompt/blob/master/preview.jpg)
+
 **** Easy to use React Native ActionSheet that works perfectly on both IOS and Adroid *****
 
 **** How to Use *****
