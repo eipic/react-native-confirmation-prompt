@@ -1,0 +1,25 @@
+{
+  "name": "react-native-confirmation-prompt",
+  "version": "1.0.0",
+  "description": "React native custom confirmation ActionSheet that works on both Android and IOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eipic/react-native-confirmation-prompt.git"
+  },
+  "keywords": [
+    "React-Native",
+    "Confirmation",
+    "Actionsheet",
+    "Prompt"
+  ],
+  "author": "Erick Kondela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eipic/react-native-confirmation-prompt/issues"
+  },
+  "homepage": "https://github.com/eipic/react-native-confirmation-prompt#readme"
+}
